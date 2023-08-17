@@ -1,7 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-# laravel-extension-packages
-
 ##laravel常用扩展包
 
 ##<a href="https://learnku.com/docs/laravel/9.x/installation/12200" target="_blank">laravel文档</a>
